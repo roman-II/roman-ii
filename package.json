@@ -1,0 +1,11 @@
+{
+  "name": "roman-ii",
+  "version": "0.0.2",
+  "description": "Jacob Roman's contact info",
+  "main": "index.js",
+  "scripts": {
+     "postinstall": "cat info.json"
+   },
+  "author": "Jacob Roman <jcbrmn06@gmail.com>",
+  "license": "GPL-3.0"
+}
